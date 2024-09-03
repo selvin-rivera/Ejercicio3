@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../react/ejercicio-react"
+		},
+		{
+			"path": "../../../Ejercicios_clase"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ejercicio3"
+	}
+}
